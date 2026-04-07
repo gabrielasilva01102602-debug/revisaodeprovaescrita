@@ -43,6 +43,7 @@
 
 .secao{
     background-color: #e20dd0;
+    display: inline-block;
 }
 .rodape{
     background-color: #e20d69;

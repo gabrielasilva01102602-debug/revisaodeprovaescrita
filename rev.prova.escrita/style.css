@@ -12,6 +12,7 @@
     background-color: #e2a20d;
     color: #fff;
     padding: 10px;
+    display: flex;
     justify-content: space-between;
     align-items: center;
 }

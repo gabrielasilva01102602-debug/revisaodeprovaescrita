@@ -23,6 +23,14 @@
     margin-left: 15px
 }
 
+.menu a:hover {
+   color: red;
+}
+
+.conteudo {
+    display: flex;
+    height: 200px;
+}
 
 .navegacao{
     background-color: #d81313;

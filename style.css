@@ -44,7 +44,7 @@
 .secao{
     background-color: #e20dd0;
     display: inline-block;
-}
+    width: 70%;
 .rodape{
     background-color: #e20d69;
 }
